@@ -14,5 +14,29 @@ The problem we’re aiming to improve is the need for more accurate and efficien
 
 When tourists, business professionals, or international students visit countries where German is spoken, they often encounter challenges in understanding written materials, menus, signs, or conducting simple conversations. Existing translation systems frequently produce translations that are grammatically incorrect, contextually inaccurate, or fail to capture cultural nuances. This leads to miscommunication, frustration, and inefficiency during travel, business, and everyday interactions. 
 
+### Overview
 
-### Dataset https://tatoeba.org/en/downloads
+### Features
+
+### Installation
+
+### Usage
+
+### Training the Model
+
+### Running Inference
+
+### Dataset
+Link https://tatoeba.org/en/downloads
+
+### Results
+
+### Contributing
+
+### License
+
+### Contact 
+
+For any issues or inquiries, please open an issue or contact **[Moses Adewolu]()** at **mosesoluwatobiadewolu@gmail.com**.
+
+
