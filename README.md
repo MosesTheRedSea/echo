@@ -2,6 +2,22 @@
 
 [mattcolewilson](https://dribbble.com/mattcolewilson)
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Problem](#problem)
+- [Motivation](#motivation)
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Training the Model](#training-the-model)
+- [Running Inference](#running-inference)
+- [Dataset](#dataset)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ### Introduction
 
 In today's globalized society, the ability to communicate across language barriers is essential for fostering understanding and collaboration. Voice translation systems, particularly those that convert spoken language into text and subsequently translate that text into another language, are crucial for enhancing communication in various domains, such as tourism, international business, and diplomatic relations.
